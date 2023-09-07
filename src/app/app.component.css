@@ -1,0 +1,16 @@
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+.tool{
+  background-color: rgb(198, 63, 151);
+  background: linear-gradient(to right,#ae5daed9, #800080);
+  border-radius: 2 rem;
+  border-color: aliceblue;
+}
+.example-icon{
+  
+  color: rgb(243, 239, 239);
+  border: black;
+  
+}

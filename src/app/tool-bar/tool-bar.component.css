@@ -1,0 +1,23 @@
+
+
+.Items{
+    
+    color: rgb(251, 245, 245);
+    background-color: #e1dee7;
+    margin-right:fit-contentn;
+    font-size: auto;
+    height: 90.7vh;
+    width: 30%;
+   
+    padding-right: 2rem;
+    padding-left: 2rem;
+    
+    background: linear-gradient(to bottom,#1f547c,  #431687, #0d083e);
+      
+    
+}
+.menu{
+    color: white;
+    
+    
+}
